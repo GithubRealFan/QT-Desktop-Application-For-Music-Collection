@@ -27,7 +27,7 @@ The application requires the following to be installed on the device:
  
 ## License 
  
-This application is licensed under the MIT License. See the LICENSE file for more information. 
+This application is licensed under the GNU Lesser General Public License v2.1. See the LICENSE file for more information. 
  
 ## Support/Contribution 
  
